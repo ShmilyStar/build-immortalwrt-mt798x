@@ -1,4 +1,4 @@
-name: t7
+name: redmi-ax6000
 
 on:
   repository_dispatch:
